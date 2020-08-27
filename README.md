@@ -28,7 +28,7 @@ Para maiores informações acesse o [guia de compilação com GCC](https://fig.i
 
 ### Acesso rápido dos códigos 
 
-Tendo em vista a dificuldade de implantação e configuração da ambiente de desenvolvimento C, os códigos deste repositório foram disponibilizados na IDE online da SoloLearn, pois esta plataforma é muito prática, diversificada e objetiva. O link para a IDE é [Exemplos em códigos C](https://code.sololearn.com/c6dy4C5PbeLY). Para compilar e executar o projeto basta clicar no botão verde "Run" e observar os resultados. 
+Tendo em vista a dificuldade de implantação e configuração da ambiente de desenvolvimento C, os códigos deste repositório foram disponibilizados na IDE online da SoloLearn, pois esta plataforma é muito prática, diversificada e objetiva. O link para a IDE é [Exemplos em códigos C](https://code.sololearn.com/c6dy4C5PbeLY) e para compilar e executar o projeto basta clicar no botão verde "Run" e observar os resultados. 
 
 ### Recomendações de estudos
 
@@ -44,5 +44,5 @@ Tendo em vista a dificuldade de implantação e configuração da ambiente de de
 
 [Vídeoaulas do Curso C da eXcript](https://www.youtube.com/watch?v=FH7YrE0RjWE&list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) é a série de vídeaulas do mesmo curso.
 
-[Cursos da SoloLearn, Inc.](https://www.sololearn.com/Course/C/) Plataforma de cursos e tutoriais interativos gratuitos. Além de ter um material simples e objetivo, essa plataforma conta também com acesso à IDE online para testes e desenvolvimento, certificados e ambiente colaborativo.
+[Cursos da SoloLearn, Inc: C](https://www.sololearn.com/Course/C/) Plataforma de cursos e tutoriais interativos gratuitos. Além de ter um material simples e objetivo, essa plataforma conta também com acesso à IDE online para testes e desenvolvimento, certificados e ambiente colaborativo.
 
